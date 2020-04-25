@@ -95,6 +95,9 @@
 (require 'widget)
 (eval-when-compile (require 'wid-edit))
 
+(require 'helm)
+(require 'helm-source)
+
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Setting
